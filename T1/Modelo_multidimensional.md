@@ -16,6 +16,7 @@
 | vendas_total |
 | valor_medio_medicamento_vendido |
 
+
 ---
 
 ### Pedidos
@@ -32,4 +33,7 @@
 | ID |
 | ID_dim_pedidos |
 | total_medicamento_pedidos |
+| total_medicamento_pedidos_fornecedor |
 | total_pedidos_mes |
+| valor_vendido_fornecedor|
+
