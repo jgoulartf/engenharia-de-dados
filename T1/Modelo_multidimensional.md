@@ -10,6 +10,7 @@
 
 | FatosVendas |
 | --- |
+| ID |
 | ID_dim_vendas |
 | quantidade_medicamentos_vendidos |
 | vendas_total |
@@ -28,6 +29,7 @@
 
 | FatosPedidos |
 | --- |
+| ID |
 | ID_dim_pedidos |
 | total_medicamento_pedidos |
 | total_pedidos_mes |
