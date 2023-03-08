@@ -1,6 +1,6 @@
 ### Vendas 
 
-| DimensãoVendas |
+| DimensaoVendas |
 | --- |
 | ID |
 | ID_Cliente |
