@@ -1,6 +1,6 @@
 ### Vendas 
 
-| DimensõesVendas |
+| DimensãoVendas |
 | --- |
 | Cliente |
 | Fornecedor |
@@ -17,7 +17,7 @@
 
 ### Pedidos
 
-| DimensõesPedidos |
+| DimensãoPedidos |
 | --- |
 | Fornecedor |
 | Medicamento |
