@@ -9,9 +9,9 @@
 
 | FatosVendas |
 | --- |
-| Quantidade de medicamentos vendidos |
-| Valor total de vendas |
-| Valor médio de venda por medicamento vendido |
+| quantidade_medicamentos_vendidos |
+| vendas_total |
+| valor_medio_medicamento_vendido |
 
 ---
 
@@ -25,5 +25,5 @@
 
 | FatosPedidos |
 | --- |
-| Quantidade de medicamentos pedidos |
-| Valor total de pedidos |
+| total_medicamento_pedidos |
+| total_pedidos_mes |
