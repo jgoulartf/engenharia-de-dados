@@ -2,9 +2,9 @@
 
 | DimensãoVendas |
 | --- |
-| Cliente |
-| Fornecedor |
-| Medicamento |
+| ID_Cliente |
+| ID_Fornecedor |
+| ID_Medicamento |
 | Data |
 
 | FatosVendas |
@@ -19,8 +19,8 @@
 
 | DimensãoPedidos |
 | --- |
-| Fornecedor |
-| Medicamento |
+| ID_Fornecedor |
+| ID_Medicamento |
 | Data |
 
 | FatosPedidos |
