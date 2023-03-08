@@ -1,4 +1,4 @@
-### Tabela de vendas 
+### Vendas 
 
 | DimensõesVendas |
 | --- |
@@ -15,7 +15,7 @@
 
 ---
 
-### Tabela de pedidos
+### Pedidos
 
 | DimensõesPedidos |
 | --- |
