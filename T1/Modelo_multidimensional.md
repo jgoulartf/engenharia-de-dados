@@ -7,7 +7,7 @@
 | Medicamento |
 | Data |
 
-| MedidasVendas |
+| FatosVendas |
 | --- |
 | Quantidade de medicamentos vendidos |
 | Valor total de vendas |
@@ -23,7 +23,7 @@
 | Medicamento |
 | Data |
 
-| MedidasPedidos |
+| FatosPedidos |
 | --- |
 | Quantidade de medicamentos pedidos |
 | Valor total de pedidos |
