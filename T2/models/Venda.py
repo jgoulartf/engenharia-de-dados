@@ -1,7 +1,7 @@
 from mongoengine import *
 
-from models import Medicamento
-from models import Cliente
+from models.Medicamento import Medicamento
+from models.Cliente import Cliente
 
 
 class Venda(Document):
